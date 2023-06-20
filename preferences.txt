@@ -1,0 +1,2 @@
+ Favorite movie:Star Wars,Favorite series:Scrubs,Favorite food:Okroshka,
+        Favorite season:Summer,Country I'd like to visit:China
