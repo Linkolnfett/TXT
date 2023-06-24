@@ -1,1 +1,8 @@
-
+Severity: Major
+Environment (@nickname): @Linkolnfett
+OS Android : 10
+Title: The application is reactivated upon notification from the messenger
+Precondition 1. Launch the application 2. Lock the screen. 
+Steps: 1. Notification received  from another phone	
+Actual Result: Exiting the application from onResume mode.	
+Expected Result: Switching the application to onPause mode when the screen is locked
